@@ -102,4 +102,3 @@ elif user_input == "as":
     add_shelf()
 else:
     print("Вы ввели неверную команду ")
-b dct nfrb yflj ,skj ghj,jdfnm ltkfnm afqks
